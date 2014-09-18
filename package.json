@@ -1,6 +1,6 @@
 {
   "name": "jiggle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jiggle arrays to slightly rearrange their values",
   "main": "index.js",
   "scripts": {
@@ -25,8 +25,5 @@
   "devDependencies": {
     "tap": "^0.4.12",
     "tap-spec": "^1.0.0"
-  },
-  "dependencies": {
-    "lodash.sample": "^2.4.1"
   }
 }
