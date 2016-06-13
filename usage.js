@@ -1,4 +1,4 @@
-var jiggle = require("./")
+var jiggle = require('.')
 
 // The jiggle() function takes an array as input and returns an array
 jiggle([0,1,2,3,4,5,6,7,8,9])
